@@ -11,4 +11,9 @@ writers:
         published: 1866
         genre: 'Philosophical novel'
         country: 'Russia'
-
+    -
+        name: 'Aleksandr Pushkin'
+        book: 'The Captain''s Daughter'
+        published: 1836
+        genre: 'Historical novel'
+        country: 'Russia'
