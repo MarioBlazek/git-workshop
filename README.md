@@ -12,4 +12,6 @@ This workshop is highly influenced by the [Hacktoberfest](https://hacktoberfest.
 - Merging
 - Rebasing
 - Rewriting history
-- Configuration
+- Configuration  
+
+Usage of Git GUI tools is strictly forbidden.
