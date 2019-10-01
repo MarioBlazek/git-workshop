@@ -11,4 +11,10 @@ writers:
         published: 1866
         genre: 'Philosophical novel'
         country: 'Russia'
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'Crime and Punishment 2'
+        published: 1866
+        genre: 'Philosophical novel'
+        country: 'Russia'
 
