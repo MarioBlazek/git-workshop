@@ -1,0 +1,41 @@
+language: php
+
+# directories to cache
+cache:
+    directories:
+        - vendor
+        - $HOME/.composer/cache
+
+matrix:
+    # mark as finished before allow_failures are run
+    fast_finish: true
+    include:
+        - php: 7.1
+        - php: 7.2
+        - php: 7.3
+
+# test only master (+ pull requests)
+branches:
+    only:
+        - master
+
+# install dependencies
+install:
+    - composer install
+
+# execute composer test
+script:
+    - composer lint
+    - composer test
+
+# disable mail notifications
+notification:
+    email: false
+
+# reduce depth (history) of git checkout
+git:
+    depth: 30
+
+
+# we don't need sudo
+sudo: false

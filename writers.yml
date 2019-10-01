@@ -1,0 +1,14 @@
+writers:
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'The Brothers Karamazov'
+        published: 1879
+        genre: 'Philosophical novel'
+        country: 'Russia'
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'Crime and Punishment'
+        published: 1866
+        genre: 'Philosophical novel'
+        country: 'Russia'
+

@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "^4.3",
+        "symfony/yaml": "^4.3",
+        "beberlei/assert": "^3.2"
+    },
+    "scripts": {
+        "lint": "@php test/linter.php writers.yml",
+        "test": "@php test/test.php"
+    }
+}
