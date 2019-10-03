@@ -60,6 +60,7 @@ composer test
 * Or a bit more advanced use case
 
 ```bash
+#!/bin/sh  
 echo "Running tests..."
 
 for file in $(git diff --cached --name-only)
@@ -67,9 +68,7 @@ do
   if [ $file == "writers.yml" ]; then
       composer test
   fi
-
 done
-
 ```
 
 Read more
