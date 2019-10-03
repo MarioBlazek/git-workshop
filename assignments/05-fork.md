@@ -19,7 +19,7 @@ Tasks
 * Clone with SSH your fork locally
 * Set the original repository as upstream remote 
 * Create new feature branch
-* Add some authors by your choice to `writers.yml` and try to stick with the format
+* Add 5 books of your choice to `writers.yml` and try to stick with the format
 * Commit and push to your remote
 
 Solution

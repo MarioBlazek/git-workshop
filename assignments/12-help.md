@@ -36,3 +36,4 @@ Read more
 * [Git book](https://git-scm.com/book/en/v2)
 * [Atlassian Git tutorials](https://www.atlassian.com/git/tutorials)
 * [Try Git](https://try.github.io/)
+* [Git katas](https://github.com/praqma-training/git-katas)

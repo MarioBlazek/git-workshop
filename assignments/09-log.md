@@ -16,7 +16,8 @@ Tasks
 * Use custom format to display hash, author name, author date relative and subject
 * Display commits from the last two weeks without merge commits
 * Display commit hash and subject from commits made since 2019-10-01 and before 2019-10-03, by author Jane Doe, without merge commits
-* Search for usage of dump function 
+* Search for usage of dump function
+* Display graph 
 
 
 Hints
@@ -81,3 +82,4 @@ Solution
 * `git log --since=2.weeks --no-merges`
 * `git log --pretty="%h - %s" --author='Jane Doe' --since="2019-10-01" --before="2019-10-03" --no-merges`
 * `git log --pretty="%h - %s" -S dump`
+* `git log --pretty=format:'%h %s' --graph`

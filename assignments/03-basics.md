@@ -4,31 +4,38 @@ Basics
 Goal
 ----
 
-Implement a form to propose contacts. We won't modify a `Contact` instance
-directly, but create a `ProposeContact` command in the form which we'll
-dispatch in the controller.
+Get into shape with simple `git` operations like initializing an empty repository,
+staging files, committing the changes. Manipulating the files and directories,
+excluding files, removing files and pulling and pushing changes to remotes.
 
 Tasks
 -----
 
-* Create the `Contacts\Infrastructure\Web\Form\ProposeContactType` class -> done
-* Show all fields of the `Contact` in the form except for the organization ID -> done
-* Let this type implement `DataMapperInterface` and create a new
-  `ProposeContact` command in `mapFormsToData()` -> done
-* Display the form in `ProposalController::proposeAction()` -> done
-* If the form is submitted and valid, dispatch the command and redirect to the
-  list of proposals -> done
-* Validate that the first and last name are set -> done
-
-Hints
------
-
-* You can leave `mapDataToForms()` empty
-* Commands can be dispatched using `$this->get('command_bus')->handle($command)`
+* Initialize an empty repository
+* Create README.md file with some contents inside
+* Check the current status of your repository
+* Stage README.md file
+* Check the short status of your repository
+* Commit the changes
+* Add some more content to README.md file
+* Discard the changes in the README.md file
+* In the new directory clone https://github.com/netgen/tagsbundle repository
+* Inspect the commit history
+* Show the remote
+* Get some more data about remote
 
 Solution
 --------
 
-You can checkout the solution with:
-
-    $ git checkout 04-command-forms
+* `git init`
+* `touch README.md && echo "#Hi all" >> README.md`
+* `git status`
+* `git add README.md`
+* `git status -s`
+* `git commit -m "Add the README.md file"`
+* `echo "##And to you" >> README.md`
+* `git checkout README.md`
+* `git clone clone https://github.com/netgen/tagsbundle`
+* `git log`
+* `git remote -v`
+* `git remote show origin`

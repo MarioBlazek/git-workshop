@@ -4,31 +4,40 @@ Branching
 Goal
 ----
 
-Implement a form to propose contacts. We won't modify a `Contact` instance
-directly, but create a `ProposeContact` command in the form which we'll
-dispatch in the controller.
+Become comfortable with Git's killer feature. Create new branches, 
+switch to new branches, do some work, commit work. Integrate feature
+branches into `master`, remove branches which are not needed any more.
+Perform fast-forward or the three-way merges. Do some rebasing.
 
 Tasks
 -----
 
-* Create the `Contacts\Infrastructure\Web\Form\ProposeContactType` class -> done
-* Show all fields of the `Contact` in the form except for the organization ID -> done
-* Let this type implement `DataMapperInterface` and create a new
-  `ProposeContact` command in `mapFormsToData()` -> done
-* Display the form in `ProposalController::proposeAction()` -> done
-* If the form is submitted and valid, dispatch the command and redirect to the
-  list of proposals -> done
-* Validate that the first and last name are set -> done
+* Initialize an empty repository
+* Create README.md file and put some contents inside
+* Commit the README.md file
+* Create CONTRIBUTING.md file and put some contents inside
+* Commit the CONTRIBUTING.md file
+* Checkout the `experimental` branch
+* Update the README.md file
+* Commit the changes
+* Switch back to the `master` branch
+* Checkout the `hotfix` branch
+* Do some hotfixing on README.md
+* Commit the changes
+* Do a fast-forward merge into master
+* List all the available branches
+* List only merged branches
+* List branches that were not merged yet
+* Remove the `hotfix` branch
+* Switch to the `experimental` branch
+* Update the CONTRIBUTING.md file
+* Commit the changes
+* Switch back to the `master` branch
+* Do a three-way merge into master (resolve conflicts if there are any)
 
-Hints
------
-
-* You can leave `mapDataToForms()` empty
-* Commands can be dispatched using `$this->get('command_bus')->handle($command)`
 
 Solution
 --------
 
-You can checkout the solution with:
-
-    $ git checkout 04-command-forms
+* `touch README.md && echo "#Hi all" >> README.md`
+* `touch CONTRIBUTING.md && echo "#Hi all" >> CONTRIBUTING.md`

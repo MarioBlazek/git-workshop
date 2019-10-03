@@ -1,34 +1,46 @@
-Implement a Form to Propose Contacts
-====================================
+Rewriting history
+=================
 
 Goal
 ----
 
-Implement a form to propose contacts. We won't modify a `Contact` instance
-directly, but create a `ProposeContact` command in the form which we'll
-dispatch in the controller.
+Get some in-depth knowledge of `git rebase` command.
+
+Intro
+-----
+
+Rebase is one of two Git utilities that specializes in integrating changes from one branch onto another.
+The other change integration utility is git merge.
+Merge is always a forward moving change record.
+Alternatively, rebase has powerful history rewriting features.
+
+Rebasing is the process of moving or combining a sequence of commits to a new base commit.
+Rebasing is most useful and easily visualized in the context of a feature branching workflow.
+
+From a content perspective, rebasing is changing the base of your branch from one commit to another
+making it appear as if you'd created your branch from a different commit.
+Internally, Git accomplishes this by creating new commits and applying them to the specified base.
+It's very important to understand that even though the branch looks the same,
+it's composed of entirely new commits.
 
 Tasks
 -----
 
-* Create the `Contacts\Infrastructure\Web\Form\ProposeContactType` class -> done
-* Show all fields of the `Contact` in the form except for the organization ID -> done
-* Let this type implement `DataMapperInterface` and create a new
-  `ProposeContact` command in `mapFormsToData()` -> done
-* Display the form in `ProposalController::proposeAction()` -> done
-* If the form is submitted and valid, dispatch the command and redirect to the
-  list of proposals -> done
-* Validate that the first and last name are set -> done
-
-Hints
------
-
-* You can leave `mapDataToForms()` empty
-* Commands can be dispatched using `$this->get('command_bus')->handle($command)`
+* Change last commit message
+* Squash last two commits
+* Change commit message on the third commit from the top
 
 Solution
 --------
 
-You can checkout the solution with:
+* `git commit --amend`
+* `git rebase -i HEAD~n` where `n` is number of commits on which the operation is
+going to be performed
 
-    $ git checkout 04-command-forms
+
+Read more
+---------
+
+* [Atlassian Git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+* [Atlassian interactive rebase](https://www.atlassian.com/git/tutorials/rewriting-history#git-rebase-i)
+* [Atlassian amend](https://www.atlassian.com/git/tutorials/rewriting-history#git-commit--amend)

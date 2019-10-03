@@ -1,34 +1,30 @@
-Implement a Form to Propose Contacts
-====================================
+Make a Pull Request
+===================
 
 Goal
 ----
 
-Implement a form to propose contacts. We won't modify a `Contact` instance
-directly, but create a `ProposeContact` command in the form which we'll
-dispatch in the controller.
+Make a Pull Request from your fork.
 
 Tasks
 -----
 
-* Create the `Contacts\Infrastructure\Web\Form\ProposeContactType` class -> done
-* Show all fields of the `Contact` in the form except for the organization ID -> done
-* Let this type implement `DataMapperInterface` and create a new
-  `ProposeContact` command in `mapFormsToData()` -> done
-* Display the form in `ProposalController::proposeAction()` -> done
-* If the form is submitted and valid, dispatch the command and redirect to the
-  list of proposals -> done
-* Validate that the first and last name are set -> done
+* Open a new Pull Request on the main repository
+* Wait for CI to finish
+* Address maintainer's comments if there are any
+* Maybe some rebasing would be needed 
 
 Hints
 -----
 
-* You can leave `mapDataToForms()` empty
-* Commands can be dispatched using `$this->get('command_bus')->handle($command)`
+* [How to rebase a PR](https://akrabat.com/the-beginners-guide-to-rebasing-your-pr/)
 
 Solution
 --------
 
-You can checkout the solution with:
+* [GitHub Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)
 
-    $ git checkout 04-command-forms
+Read more
+---------
+
+* [Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request)

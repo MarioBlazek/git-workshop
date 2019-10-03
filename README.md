@@ -15,4 +15,11 @@ This workshop is highly influenced by the [Hacktoberfest](https://hacktoberfest.
 - Configuration
 - Github flow   
 
-Usage of Git GUI tools is strictly forbidden.
+Usage of Git GUI tools is strictly forbidden. Checkout the [assignments](assignments/00-introduction.md) section.
+
+
+Resources for this workshop mostly are taken from the [Git Book](https://git-scm.com/book/en/v2) 
+by Scott Chacon and Ben Straub and [Atlassian Git tutorials](https://www.atlassian.com/git/tutorials).
+
+
+*Note: This is designed to be used as guided classroom workshop material, and not as self study guide.*
