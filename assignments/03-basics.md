@@ -1,5 +1,5 @@
-Basics
-======
+Git Basics
+==========
 
 Goal
 ----

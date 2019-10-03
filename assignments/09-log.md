@@ -1,4 +1,4 @@
-git log
+Git log
 =======
 
 Goal

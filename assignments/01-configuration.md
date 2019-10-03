@@ -4,8 +4,8 @@ Git config
 Goal
 ----
 
-Customize you Git environment. Configure standard Git options only once on any given computer, t
-hey’ll stick around between upgrades. You can also change them at any time by running through the commands again.
+Customize your Git environment. Configure standard Git options only once on any given computer, 
+they’ll stick around between upgrades. You can also change them at any time by running through the commands again.
 
 
 Intro

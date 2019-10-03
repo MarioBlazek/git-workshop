@@ -1,5 +1,5 @@
-Reset
-=====
+Git reset
+=========
 
 Goal
 ----

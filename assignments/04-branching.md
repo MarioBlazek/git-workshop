@@ -1,5 +1,5 @@
-Branching
-=========
+Git Branching
+=============
 
 Goal
 ----
