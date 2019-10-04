@@ -251,3 +251,9 @@ writers:
         published: 1846
         genre: 'Tutorial'
         country: 'Croatia'
+    -
+        name: 'Agatha Christie'
+        book: 'And Then There Were None'
+        published: 1939
+        genre: 'mystery'
+        country: 'United Kingdom'
