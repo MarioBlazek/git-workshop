@@ -255,5 +255,11 @@ writers:
         name: 'Agatha Christie'
         book: 'And Then There Were None'
         published: 1939
+        genre: 'Philosophical novel'
+        country: 'Taiwan'
+    -
+        name: 'Peter Benchley'
+        book: 'Jaws'
+        published: 1974
         genre: 'mystery'
-        country: 'United Kingdom'
+        country: 'United States'
