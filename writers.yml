@@ -131,3 +131,9 @@ writers:
         published: 1939
         genre: 'mystery'
         country: 'England'
+
+        name: 'Agatha Christie'
+        book: 'And Then There Were None'
+        published: 1939
+        genre: 'mystery'
+        country: 'United Kingdom'
