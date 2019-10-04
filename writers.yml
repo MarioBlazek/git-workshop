@@ -101,9 +101,9 @@ writers:
         published: 1945
         genre: 'Philosophical novel'
         country: 'SSSR'
-
+    -
         name: 'J. R. R. Tolkien'
-        book: 'The Lord of the Rings    '
+        book: 'The Lord of the Rings'
         published: 1955
         genre: 'fantasy'
         country: 'England'
@@ -114,7 +114,7 @@ writers:
         genre: 'fanstasy'
         country: 'Brasil'
     -
-        name: 'Harry Potter and the Philosopher's Stone'
+        name: "Harry Potter and the Philosopher's Stone"
         book: 'J. K. Rowling'
         published: 1977
         genre: 'fantasy'
