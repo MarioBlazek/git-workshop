@@ -35,7 +35,7 @@ Solution
 * `git commit -m "Add the README.md file"`
 * `echo "##And to you" >> README.md`
 * `git checkout README.md`
-* `git clone clone https://github.com/netgen/tagsbundle`
+* `git clone https://github.com/netgen/tagsbundle`
 * `git log`
 * `git remote -v`
 * `git remote show origin`
