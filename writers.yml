@@ -71,4 +71,34 @@ writers:
         published: 1846
         genre: 'Philosophical novel'
         country: 'Russia'
+    -
+        name: 'Ratko Zvrko'
+        book: 'Carobni prozor'
+        published: 1957
+        genre: 'Childrens book'
+        country: 'Croatia'
+    -
+        name: 'Charles Bukowski'
+        book: 'Women'
+        published: 1978
+        genre: 'Autobiographical book'
+        country: 'USA'
+    -
+        name: 'Hrvoje Hitrec'
+        book: 'Eko Eko'
+        published: 1980
+        genre: 'Lektira'
+        country: 'Croatia'
+    -
+        name: 'Addy Osmani'
+        book: 'Learning JavaScript Design Patterns'
+        published: 2012
+        genre: 'Fantasy'
+        country: 'USA'
+    -
+        name: 'Fyodor Staljin Dostoevsky'
+        book: 'Crime without Punishment'
+        published: 1945
+        genre: 'Philosophical novel'
+        country: 'SSSR'
 
