@@ -131,6 +131,12 @@ writers:
         published: 1939
         genre: 'mystery'
         country: 'England'
+    -
+        name: 'Peter Benchley'
+        book: 'Jaws'
+        published: 1974
+        genre: 'mystery'
+        country: 'United States'
     - 
         name: 'Ivan Horvat'
         book: 'Bla bla'
