@@ -37,3 +37,4 @@ Read more
 * [Atlassian Git tutorials](https://www.atlassian.com/git/tutorials)
 * [Try Git](https://try.github.io/)
 * [Git katas](https://github.com/praqma-training/git-katas)
+* [Oh Shit Git](https://ohshitgit.com/)
