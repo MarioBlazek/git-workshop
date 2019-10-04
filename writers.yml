@@ -11,3 +11,36 @@ writers:
         published: 1866
         genre: 'Philosophical novel'
         country: 'Russia'
+    -
+        name: 'Frank Herbert'
+        book: 'Dune'
+        published: 1965
+        genre: 'Science fiction novel'
+        country: 'United States'
+    -
+        name: 'Edgar Rice Burroughs'
+        book: 'A Princess of Mars'
+        published: 1912
+        genre: 'Science fiction novel'
+        country: 'United States'
+    -
+        name: 'H. G. Wells'
+        book: 'The War of the Worlds'
+        published: 1898
+        genre: 'Science fiction novel'
+        country: 'United Kingdom'
+    -
+        name: 'Philip K. Dick'
+        book: 'Do Androids Dream of Electric Sheep?'
+        published: 1968
+        genre: 'Science fiction novel'
+        country: 'United States'
+    -
+        name: 'William Gibson'
+        book: 'Neuromancer'
+        published: 1984
+        genre: 'Science fiction novel'
+        country: 'United States'
+
+
+
