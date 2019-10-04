@@ -24,7 +24,7 @@ Tasks
 * Checkout the `hotfix` branch
 * Do some hotfixing on README.md
 * Commit the changes
-* Do a fast-forward merge into master
+* Do a fast-forward merge of `hotfix` branch into `master`
 * List all the available branches
 * List only merged branches
 * List branches that were not merged yet
