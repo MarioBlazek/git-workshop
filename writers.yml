@@ -71,7 +71,7 @@ writers:
         published: 1846
         genre: 'Philosophical novel'
         country: 'Russia'
-
+    -
         name: 'Ratko Zvrko'
         book: 'Carobni prozor'
         published: 1957
