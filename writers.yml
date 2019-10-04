@@ -41,6 +41,34 @@ writers:
         published: 1984
         genre: 'Science fiction novel'
         country: 'United States'
-
-
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'The idiot'
+        published: 1869
+        genre: 'Philosophical novel'
+        country: 'Russia'
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'Demons'
+        published: 1872
+        genre: 'Philosophical fiction'
+        country: 'Russia'
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'The gambler'
+        published: 1866
+        genre: 'Novel'
+        country: 'Russia'
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'White nights'
+        published: 1848
+        genre: 'Philosophical novel'
+        country: 'Russia'
+    -
+        name: 'Fyodor Dostoevsky'
+        book: 'The double'
+        published: 1846
+        genre: 'Philosophical novel'
+        country: 'Russia'
 
