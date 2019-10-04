@@ -11,33 +11,3 @@ writers:
         published: 1866
         genre: 'Philosophical novel'
         country: 'Russia'
-    -
-        name: 'Ivan Horvat'
-        book: 'Bla bla'
-        published: 1855
-        genre: 'Crime novel'
-        country: 'France'
-    -
-        name: 'Ivo Sanader'
-        book: 'kdksdnf'
-        published: 2000
-        genre: 'Philosophical novel'
-        country: 'England'
-    -
-        name: 'Jadranka Kosor'
-        book: 'Crime and Punishment'
-        published: 6666
-        genre: 'Romance novel'
-        country: 'Russia'
-    -
-        name: 'Tomislav Karamarko'
-        book: 'Bla bula bilaj'
-        published: 2019
-        genre: 'Philosophical novel'
-        country: 'Portugal' 
-    -
-        name: 'Andrej Plenković'
-        book: 'bla bla bli bli'
-        published: 1999
-        genre: 'Philosophical novel'
-        country: 'Croatia' 
