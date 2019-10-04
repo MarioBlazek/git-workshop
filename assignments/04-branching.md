@@ -39,5 +39,32 @@ Tasks
 Solution
 --------
 
+* `git init`
 * `touch README.md && echo "#Hi all" >> README.md`
+* `git add README.md`
+* `git commit`
 * `touch CONTRIBUTING.md && echo "#Hi all" >> CONTRIBUTING.md`
+* `git add CONTRIBUTING.md`
+* `git commit`
+* `git checkout -b experimental`
+* `echo "#Hi all from experimental" >> README.md`
+* `git add README.md`
+* `git commit`
+* `git checkout master`
+* `git checkout -b hotfix`
+* `echo "#Hi all from hotfix" >> README.md`
+* `git add README.md`
+* `git commit`
+* `git checkout master`
+* `git branch -v`
+* `git branch --merged`
+* `git branch --no-merged`
+* `git branch -d hotfix`
+* `git checkout experimental`
+* `echo "#Hi all from experimental" >> CONTRIBUTING.md`
+* `git add CONTRIBUTING.md`
+* `git commit`
+* `git checkout master`
+* `git merge experimental`
+
+

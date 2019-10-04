@@ -24,10 +24,11 @@ rewriting history or simply by adding new commits), a new entry will be added to
 Tasks
 -----
 
-* Do a reset of previous commit
-* Do a soft reset of previous commit
-* Do a hard reset of previous commit
+* Discard the changes of previous commit and move them to untracked section
+* Discard the changes of previous commit but leave them staged
+* Completely remove the changes of previous commit
 * Inspect a project's reflog
+* Get to the state before all of this resetting came into play
 
 Solution
 --------
@@ -36,6 +37,7 @@ Solution
 * `git reset --soft HEAD~1`
 * `git reset --hard HEAD~1`
 * `git reflog`
+* Find commit hash in reflog and do `git reset --hard <hash>`
 
 Read more
 ---------
