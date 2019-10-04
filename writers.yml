@@ -101,4 +101,33 @@ writers:
         published: 1945
         genre: 'Philosophical novel'
         country: 'SSSR'
-
+    -
+        name: 'J. R. R. Tolkien'
+        book: 'The Lord of the Rings'
+        published: 1955
+        genre: 'fantasy'
+        country: 'England'
+    -
+        name: 'Paulo Coelho'
+        book: 'The Alchemist'
+        published: 1988
+        genre: 'fanstasy'
+        country: 'Brasil'
+    -
+        name: "Harry Potter and the Philosopher's Stone"
+        book: 'J. K. Rowling'
+        published: 1977
+        genre: 'fantasy'
+        country: 'England'
+    -
+        name: 'The Little Prince'
+        book: 'Antoine de Saint-Exupéry'
+        published: 1943
+        genre: 'fantasy'
+        country: 'France'
+    -
+        name: 'And Then There Were None'
+        book: '	Agatha Christie'
+        published: 1939
+        genre: 'mystery'
+        country: 'England'
