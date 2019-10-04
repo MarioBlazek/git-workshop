@@ -25,7 +25,7 @@ Tasks
 Solution
 --------
 
-* [Fork a repopository](https://help.github.com/en/articles/fork-a-repo)
+* [Fork a repository](https://help.github.com/en/articles/fork-a-repo)
 * `git clone git@github.com:janedoe/git-workshop.git`
 * `git remote add upstream git@github.com:MarioBlazek/git-workshop.git`
 * `git checkout -b feature_something`
