@@ -144,12 +144,6 @@ writers:
         genre: 'Philosophical novel'
         country: 'England'
     -
-        name: 'Jadranka Kosor'
-        book: 'Crime and Punishment'
-        published: 6666
-        genre: 'Romance novel'
-        country: 'Russia'
-    -
         name: 'Tomislav Karamarko'
         book: 'Bla bula bilaj'
         published: 2019
