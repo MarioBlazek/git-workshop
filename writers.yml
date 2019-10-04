@@ -131,7 +131,7 @@ writers:
         published: 1939
         genre: 'mystery'
         country: 'England'
-
+    -
         name: 'Peter Benchley'
         book: 'Jaws'
         published: 1974
