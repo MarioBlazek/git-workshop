@@ -191,3 +191,33 @@ writers:
         published: 1846
         genre: 'Philosophical novel'
         country: 'Russia'
+    -
+        name: 'Sally Rooney'
+        book: 'Normal People'
+        published: 2019
+        genre: 'Romance novel'
+        country: 'Ireland'
+     -
+        name: 'Exhalation: Stories'
+        book: 'Ted Chiang'
+        published: 2019
+        genre: 'Science fiction novel'
+        country: 'SAD'
+     -
+        name: 'No Visible Bruises: What We Don't Know About Domestic Violence Can Kill Us'
+        book: 'Rachel Louise'
+        published: 2019
+        genre: 'Philosophical novel'
+        country: 'SAD'
+     -
+        name: 'Disappearing Earth'
+        book: 'Julia Philips'
+        published: 2019
+        genre: 'Crime novel'
+        country: 'Russia'
+     -
+        name: 'The Unpassing'
+        book: 'Chia Chia Lin'
+        published: 2019
+        genre: 'Philosophical novel'
+        country: 'Taiwan'
