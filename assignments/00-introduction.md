@@ -4,7 +4,7 @@ Introduction
 Welcome to the Git workshop!
 
 The goal of this workshop is to give you an idea how to use the Git version control 
-system. It is starting with basics and slowly progresses to more advanced topics. Here is the list of the assignments:
+system. It starts with the basics and slowly progresses to more advanced topics. Here is the list of the assignments:
 
 1. [Configuration](01-configuration.md)
 2. [SSH key](02-ssh-key.md)
