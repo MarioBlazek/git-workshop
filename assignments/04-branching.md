@@ -56,7 +56,6 @@ Solution
 * `git add README.md`
 * `git commit`
 * `git checkout master`
-* `git merge exerimental`
 * `git branch -v`
 * `git branch --merged`
 * `git branch --no-merged`
