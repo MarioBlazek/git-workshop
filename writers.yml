@@ -262,7 +262,7 @@ writers:
         book: 'The Catcher in the Rye'
         published: 1951
         genre: 'Realistic fiction'
-        country: USA
+        country: 'USA'
     -   
         name: 'The Daughter of Time'
         book: 'Josephine Tey'
@@ -281,3 +281,9 @@ writers:
         published: 2005
         genre: 'Crime'
         country: 'Sweden'
+    -
+        name: 'Nikola Kustić'
+        book: 'Cakavski govor grada Paga'
+        published: 2002
+        genre: 'Dictionary'
+        country: 'Croatia'
