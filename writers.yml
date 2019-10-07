@@ -281,3 +281,9 @@ writers:
         published: 2005
         genre: 'Crime'
         country: 'Sweden'
+    -
+        name: 'Nikola Kustić'
+        book: 'Cakavski govor grada Paga'
+        published: 2002
+        genre: 'Dictionary'
+        country: 'Croatia
