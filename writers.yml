@@ -262,7 +262,7 @@ writers:
         book: 'The Catcher in the Rye'
         published: 1951
         genre: 'Realistic fiction'
-        country: USA
+        country: 'USA'
     -   
         name: 'The Daughter of Time'
         book: 'Josephine Tey'
