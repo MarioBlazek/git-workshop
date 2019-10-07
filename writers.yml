@@ -127,7 +127,7 @@ writers:
         country: 'France'
     -
         name: 'And Then There Were None'
-        book: '	Agatha Christie'
+        book: 'Agatha Christie'
         published: 1939
         genre: 'mystery'
         country: 'England'
@@ -262,4 +262,16 @@ writers:
         book: 'The Catcher in the Rye'
         published: 1951
         genre: 'Realistic fiction'
+        country: USA
+    -   
+        name: 'The Daughter of Time'
+        book: 'Josephine Tey'
+        published: 1951
+        genre: 'crime novel'
+        country: 'Scotland'
+    -
+        name: 'The Big Sleep'
+        book: 'Raymond Chandler'
+        published: 1939
+        genre: 'crime novel'
         country: 'USA'
