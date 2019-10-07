@@ -251,3 +251,15 @@ writers:
         published: 1846
         genre: 'Tutorial'
         country: 'Croatia'
+    -
+        name: 'Agatha Christie'
+        book: 'And Then There Were None'
+        published: 1939
+        genre: 'Philosophical novel'
+        country: 'Taiwan'
+    -
+        name: 'J. D. Salinger'
+        book: 'The Catcher in the Rye'
+        published: 1951
+        genre: 'Realistic fiction'
+        country: 'USA'
