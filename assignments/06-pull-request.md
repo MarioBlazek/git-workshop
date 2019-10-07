@@ -39,7 +39,7 @@ Hints
         ```bash
         git checkout feature_*
         ```
-    - rebase feature branch against master
+    - rebase feature branch against master (some conflicts may occur)
         ```bash
         git rebase master
         ```
