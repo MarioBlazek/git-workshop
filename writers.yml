@@ -221,3 +221,33 @@ writers:
         published: 2019
         genre: 'Philosophical novel'
         country: 'Taiwan'
+    -
+        name: 'Franjo Tahi'
+        book: 'Vazali'
+        published: 1846
+        genre: 'Tutorial'
+        country: 'Croatia'
+    -
+        name: 'Franjo Josip'
+        book: 'Carstvo'
+        published: 1846
+        genre: 'Tutorial'
+        country: 'Croatia'
+    -
+        name: 'Franjo Tuđman'
+        book: 'Država'
+        published: 1846
+        genre: 'Tutorial'
+        country: 'Croatia'
+    -
+        name: 'Franjo Asiški'
+        book: 'Crkva'
+        published: 1846
+        genre: 'Tutorial'
+        country: 'Croatia'
+    -
+        name: 'Franjo Arapović'
+        book: 'Kako zakucati Dream Teamu'
+        published: 1846
+        genre: 'Tutorial'
+        country: 'Croatia'
