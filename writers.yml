@@ -132,7 +132,6 @@ writers:
         genre: 'mystery'
         country: 'England'
     -
-<<<<<<< HEAD
         name: 'Peter Benchley'
         book: 'Jaws'
         published: 1974
