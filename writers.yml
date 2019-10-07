@@ -221,7 +221,6 @@ writers:
         published: 2019
         genre: 'Philosophical novel'
         country: 'Taiwan'
-        country: 'Russia'
     -
         name: 'Franjo Tahi'
         book: 'Vazali'
