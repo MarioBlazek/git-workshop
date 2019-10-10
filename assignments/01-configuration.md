@@ -61,3 +61,4 @@ Read more
 ---------
 
 * [Git configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+* [.gitignore](https://labs.consol.de/development/git/2017/02/22/gitignore.html)
