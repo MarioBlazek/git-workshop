@@ -12,7 +12,7 @@ system. It starts with the basics and slowly progresses to more advanced topics.
 4. [Branching](04-branching.md)
 5. [Forking the central repo](05-fork.md)
 6. [Creating a pull request](06-pull-request.md)
-7. [Rewriting history](07-rebase.md)
+7. [Rewriting history](07-rebase)
 8. [Using reset command](08-reset.md)
 9. [Log](09-log.md)
 10. [Hooks](10-hooks.md)

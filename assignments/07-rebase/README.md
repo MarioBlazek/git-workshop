@@ -23,12 +23,17 @@ Internally, Git accomplishes this by creating new commits and applying them to t
 It's very important to understand that even though the branch looks the same,
 it's composed of entirely new commits.
 
+Setup
+-----
+
+* run `. ./init.sh` to setup the exercise
+
 Tasks
 -----
 
-* Change last commit message
-* Squash last two commits
-* Change commit message on the third commit from the top
+* Last commit message is not true, replace it with a better one
+* Squash `C` and `D` commits, as both are modifying the same file
+* Change the commit message the `F` commit as it is not very descriptive
 
 Solution
 --------
