@@ -316,6 +316,7 @@ writers:
         book: 'The Valley of Ghosts'
         published: 1922
         genre: 'Crime novel'
+        country: 'United Kingdom'
     -
         name: 'Thomas Bernhard'
         book: 'Frost'
