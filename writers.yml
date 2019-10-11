@@ -264,16 +264,16 @@ writers:
         genre: 'Realistic fiction'
         country: 'USA'
     -   
-        name: 'The Daughter of Time'
-        book: 'Josephine Tey'
+        name: 'Josephine Tey'
+        book: 'The Daughter of Time'
         published: 1951
-        genre: 'crime novel'
+        genre: 'Crime novel'
         country: 'Scotland'
     -
-        name: 'The Big Sleep'
-        book: 'Raymond Chandler'
+        name: 'Raymond Chandler'
+        book: 'The Big Sleep'
         published: 1939
-        genre: 'crime novel'
+        genre: 'Crime novel'
         country: 'USA'
     -
         name: 'Stieg Larsson'
