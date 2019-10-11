@@ -32,15 +32,15 @@ Tasks
 -----
 
 * Last commit message is not true, replace it with a better one
-* Squash `C` and `D` commits, as both are modifying the same file
+* Squash `C` and `D` commits, as both are modifying the same file, set commit message to `Together is better`
 * Change the commit message the `F` commit as it is not very descriptive
 
 Solution
 --------
 
 * `git commit --amend`
-* `git rebase -i HEAD~n` where `n` is number of commits on which the operation is
-going to be performed
+* `git rebase -i HEAD~6`, editor will popup and replace `pick` to `squash` on the `D` commit line
+* `git rebase -i HEAD~3`, editor will popup and replace `pick` to `reword` on the `F` commit line
 
 
 Read more
