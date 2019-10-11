@@ -26,7 +26,7 @@ Tasks
 
 * Discard the changes of previous commit and move them to untracked section
 * Discard the changes of previous commit but leave them staged
-* Completely remove the changes of previous commit
+* Completely remove the everything after the commit `G`
 * Inspect a project's reflog
 * Get to the state before all of this resetting came into play
 
@@ -35,9 +35,10 @@ Solution
 
 * `git reset HEAD~1`
 * `git reset --soft HEAD~1`
-* `git reset --hard HEAD~1`
+* `git reset --hard HEAD~3`
 * `git reflog`
-* Find commit hash in reflog and do `git reset --hard <hash>`
+* Do a `git reflog`, check for the commit `L` and copy the HEAD pointer reference. Finally do something like a `git reset --hard HEAD@{5}` 
+or find commit hash in reflog and do `git reset --hard <hash>`
 
 Read more
 ---------
