@@ -316,4 +316,33 @@ writers:
         book: 'The Valley of Ghosts'
         published: 1922
         genre: 'Crime novel'
+    -
+        name: 'Thomas Bernhard'
+        book: 'Frost'
+        published: 1963
+        genre: 'Novel'
+        country: 'Austria'
+    -
+        name: 'Bernard Malamud'
+        book: 'The Fixer'
+        published: 1966
+        genre: 'Novel'
+        country: 'United States'
+    -
+        name: 'Marlen Haushofer'
+        book: 'The wall'
+        published: 1963
+        genre: 'Dystopian fiction'
+        country: 'Austria'
+    -
+        name: 'Elia Kazan'
+        book: 'The Arrangement'
+        published: 1967
+        genre: 'Autobiographical'
+        country: 'United States'
+    -
+        name: 'William Golding'
+        book: 'The Pyramid'
+        published: 1967
+        genre: 'Novel'
         country: 'United Kingdom'
