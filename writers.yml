@@ -287,3 +287,33 @@ writers:
         published: 2002
         genre: 'Dictionary'
         country: 'Croatia'
+    -
+        name: 'James Joyce'
+        book: 'Ulysses'
+        published: 1922
+        genre: 'Modernist novel'
+        country: 'Ireland'
+    -
+        name: 'Ernest Raymond'
+        book: 'Tell England'
+        published: 1922
+        genre: 'Novel'
+        country: 'United Kingdom'
+    -
+        name: 'Agatha Christie'
+        book: 'The Secret Adversary'
+        published: 1922
+        genre: 'Crime novel'
+        country: 'United Kingdom'
+    -
+        name: 'Rafael Sabatini'
+        book: 'Captain Blood'
+        published: 1922
+        genre: 'Adventure novel'
+        country: 'England'
+    -
+        name: 'Edgar Wallace'
+        book: 'The Valley of Ghosts'
+        published: 1922
+        genre: 'Crime novel'
+        country: 'United Kingdom'
