@@ -9,14 +9,14 @@ switch to new branches, do some work, commit work. Integrate feature
 branches into `master`, remove branches which are not needed any more.
 Perform fast-forward or the three-way merges. Do some rebasing.
 
+Setup
+-----
+
+* run `. ./init.sh` to setup the exercise
+
 Tasks
 -----
 
-* Initialize an empty repository
-* Create README.md file and put some contents inside
-* Commit the README.md file
-* Create CONTRIBUTING.md file and put some contents inside
-* Commit the CONTRIBUTING.md file
 * Checkout the `experimental` branch
 * Update the README.md file
 * Commit the changes
@@ -39,13 +39,6 @@ Tasks
 Solution
 --------
 
-* `git init`
-* `touch README.md && echo "#Hi all" >> README.md`
-* `git add README.md`
-* `git commit`
-* `touch CONTRIBUTING.md && echo "#Hi all" >> CONTRIBUTING.md`
-* `git add CONTRIBUTING.md`
-* `git commit`
 * `git checkout -b experimental`
 * `echo "#Hi all from experimental" >> README.md`
 * `git add README.md`
