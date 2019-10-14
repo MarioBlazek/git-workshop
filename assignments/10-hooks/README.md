@@ -65,7 +65,7 @@ echo "Running tests..."
 
 for file in $(git diff --cached --name-only)
 do
-  if [ $file == "writers.yml" ]; then
+  if [ $file == "books.yml" ]; then
       composer test
   fi
 done

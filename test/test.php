@@ -5,25 +5,25 @@ require_once __DIR__ . '/../vendor/autoload.php';
 use Symfony\Component\Yaml\Yaml;
 use Assert\Assertion;
 
-$file = __DIR__ . '/../writers.yml';
+$file = __DIR__ . '/../books.yml';
 
-Assertion::file($file, 'Where is writers.yml file?');
+Assertion::file($file, 'Where is books.yml file?');
 
-$writers = Yaml::parseFile($file);
+$booksFromYaml = Yaml::parseFile($file);
 
-Assertion::isArray($writers, 'It must be an array.');
-Assertion::keyExists($writers, 'writers', 'Writers must be insider writers key.');
+Assertion::isArray($booksFromYaml, 'It must be an array.');
+Assertion::keyExists($booksFromYaml, 'books', 'Books must be added inside books key.');
 
 $books = [];
-foreach ($writers['writers'] as $writer) {
-    Assertion::count($writer, 5, 'Writer array must have exactly 5 items.');
-    Assertion::keyExists($writer, 'name', 'Writer must have a name.');
-    Assertion::keyExists($writer, 'book', 'Writer must have a book.');
-    Assertion::keyExists($writer, 'published', 'Writer\'s book must have a publication year.');
-    Assertion::keyExists($writer, 'genre', 'Writer\'s book must have a genre.');
-    Assertion::keyExists($writer, 'country', 'Writer must have a country of origin.');
+foreach ($booksFromYaml['books'] as $book) {
+    Assertion::count($book, 5, 'Book array must have exactly 5 items.');
+    Assertion::keyExists($book, 'author', 'Book must have a author.');
+    Assertion::keyExists($book, 'title', 'Book must have a title.');
+    Assertion::keyExists($book, 'published', 'Book must have a publication year.');
+    Assertion::keyExists($book, 'genre', 'Book must have a genre.');
+    Assertion::keyExists($book, 'country', 'Book must have a country of origin.');
 
-    $books[] = trim($writer['book']);
+    $books[] = trim($book['title']);
 }
 
 

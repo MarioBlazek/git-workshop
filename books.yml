@@ -1,295 +1,295 @@
-writers:
+books:
     -
-        name: 'Fyodor Dostoevsky'
-        book: 'The Brothers Karamazov'
+        author: 'Fyodor Dostoevsky'
+        title: 'The Brothers Karamazov'
         published: 1879
         genre: 'Philosophical novel'
         country: 'Russia'
     -
-        name: 'Fyodor Dostoevsky'
-        book: 'Crime and Punishment'
+        author: 'Fyodor Dostoevsky'
+        title: 'Crime and Punishment'
         published: 1866
         genre: 'Philosophical novel'
         country: 'Russia'
     -
-        name: 'Frank Herbert'
-        book: 'Dune'
+        author: 'Frank Herbert'
+        title: 'Dune'
         published: 1965
         genre: 'Science fiction novel'
         country: 'United States'
     -
-        name: 'Edgar Rice Burroughs'
-        book: 'A Princess of Mars'
+        author: 'Edgar Rice Burroughs'
+        title: 'A Princess of Mars'
         published: 1912
         genre: 'Science fiction novel'
         country: 'United States'
     -
-        name: 'H. G. Wells'
-        book: 'The War of the Worlds'
+        author: 'H. G. Wells'
+        title: 'The War of the Worlds'
         published: 1898
         genre: 'Science fiction novel'
         country: 'United Kingdom'
     -
-        name: 'Philip K. Dick'
-        book: 'Do Androids Dream of Electric Sheep?'
+        author: 'Philip K. Dick'
+        title: 'Do Androids Dream of Electric Sheep?'
         published: 1968
         genre: 'Science fiction novel'
         country: 'United States'
     -
-        name: 'William Gibson'
-        book: 'Neuromancer'
+        author: 'William Gibson'
+        title: 'Neuromancer'
         published: 1984
         genre: 'Science fiction novel'
         country: 'United States'
     -
-        name: 'Fyodor Dostoevsky'
-        book: 'The idiot'
+        author: 'Fyodor Dostoevsky'
+        title: 'The idiot'
         published: 1869
         genre: 'Philosophical novel'
         country: 'Russia'
     -
-        name: 'Fyodor Dostoevsky'
-        book: 'Demons'
+        author: 'Fyodor Dostoevsky'
+        title: 'Demons'
         published: 1872
         genre: 'Philosophical fiction'
         country: 'Russia'
     -
-        name: 'Fyodor Dostoevsky'
-        book: 'The gambler'
+        author: 'Fyodor Dostoevsky'
+        title: 'The gambler'
         published: 1866
         genre: 'Novel'
         country: 'Russia'
     -
-        name: 'Fyodor Dostoevsky'
-        book: 'White nights'
+        author: 'Fyodor Dostoevsky'
+        title: 'White nights'
         published: 1848
         genre: 'Philosophical novel'
         country: 'Russia'
     -
-        name: 'Fyodor Dostoevsky'
-        book: 'The double'
+        author: 'Fyodor Dostoevsky'
+        title: 'The double'
         published: 1846
         genre: 'Philosophical novel'
         country: 'Russia'
     -
-        name: 'Ratko Zvrko'
-        book: 'Carobni prozor'
+        author: 'Ratko Zvrko'
+        title: 'Carobni prozor'
         published: 1957
         genre: 'Childrens book'
         country: 'Croatia'
     -
-        name: 'Charles Bukowski'
-        book: 'Women'
+        author: 'Charles Bukowski'
+        title: 'Women'
         published: 1978
         genre: 'Autobiographical book'
         country: 'USA'
     -
-        name: 'Hrvoje Hitrec'
-        book: 'Eko Eko'
+        author: 'Hrvoje Hitrec'
+        title: 'Eko Eko'
         published: 1980
         genre: 'Lektira'
         country: 'Croatia'
     -
-        name: 'Addy Osmani'
-        book: 'Learning JavaScript Design Patterns'
+        author: 'Addy Osmani'
+        title: 'Learning JavaScript Design Patterns'
         published: 2012
         genre: 'Fantasy'
         country: 'USA'
     -
-        name: 'Fyodor Staljin Dostoevsky'
-        book: 'Crime without Punishment'
+        author: 'Fyodor Staljin Dostoevsky'
+        title: 'Crime without Punishment'
         published: 1945
         genre: 'Philosophical novel'
         country: 'SSSR'
     -
-        name: 'J. R. R. Tolkien'
-        book: 'The Lord of the Rings'
+        author: 'J. R. R. Tolkien'
+        title: 'The Lord of the Rings'
         published: 1955
         genre: 'fantasy'
         country: 'England'
     -
-        name: 'Paulo Coelho'
-        book: 'The Alchemist'
+        author: 'Paulo Coelho'
+        title: 'The Alchemist'
         published: 1988
         genre: 'fanstasy'
         country: 'Brasil'
     -
-        name: "Harry Potter and the Philosopher's Stone"
-        book: 'J. K. Rowling'
+        author: "Harry Potter and the Philosopher's Stone"
+        title: 'J. K. Rowling'
         published: 1977
         genre: 'fantasy'
         country: 'England'
     -
-        name: 'The Little Prince'
-        book: 'Antoine de Saint-Exupéry'
+        author: 'The Little Prince'
+        title: 'Antoine de Saint-Exupéry'
         published: 1943
         genre: 'fantasy'
         country: 'France'
     -
-        name: 'And Then There Were None'
-        book: 'Agatha Christie'
+        author: 'And Then There Were None'
+        title: 'Agatha Christie'
         published: 1939
         genre: 'mystery'
         country: 'England'
     -
-        name: 'Peter Benchley'
-        book: 'Jaws'
+        author: 'Peter Benchley'
+        title: 'Jaws'
         published: 1974
         genre: 'mystery'
         country: 'United States'
     -
-        name: 'Sally Rooney'
-        book: 'Normal People'
+        author: 'Sally Rooney'
+        title: 'Normal People'
         published: 2019
         genre: 'Romance novel'
         country: 'Ireland'
     -
-        name: 'Exhalation: Stories'
-        book: 'Ted Chiang'
+        author: 'Exhalation: Stories'
+        title: 'Ted Chiang'
         published: 2019
         genre: 'Science fiction novel'
         country: 'SAD'
     -
-        name: 'No Visible Bruises: What We Dont Know About Domestic Violence Can Kill Us'
-        book: 'Rachel Louise'
+        author: 'No Visible Bruises: What We Dont Know About Domestic Violence Can Kill Us'
+        title: 'Rachel Louise'
         published: 2019
         genre: 'Philosophical novel'
         country: 'SAD'
     -
-        name: 'Disappearing Earth'
-        book: 'Julia Philips'
+        author: 'Disappearing Earth'
+        title: 'Julia Philips'
         published: 2019
         genre: 'Crime novel'
         country: 'Russia'
     -
-        name: 'The Unpassing'
-        book: 'Chia Chia Lin'
+        author: 'The Unpassing'
+        title: 'Chia Chia Lin'
         published: 2019
         genre: 'Philosophical novel'
         country: 'Taiwan'
     -
-        name: 'Franjo Tahi'
-        book: 'Vazali'
+        author: 'Franjo Tahi'
+        title: 'Vazali'
         published: 1846
         genre: 'Tutorial'
         country: 'Croatia'
     -
-        name: 'Franjo Josip'
-        book: 'Carstvo'
+        author: 'Franjo Josip'
+        title: 'Carstvo'
         published: 1846
         genre: 'Tutorial'
         country: 'Croatia'
     -
-        name: 'Franjo Tuđman'
-        book: 'Država'
+        author: 'Franjo Tuđman'
+        title: 'Država'
         published: 1846
         genre: 'Tutorial'
         country: 'Croatia'
     -
-        name: 'Franjo Asiški'
-        book: 'Crkva'
+        author: 'Franjo Asiški'
+        title: 'Crkva'
         published: 1846
         genre: 'Tutorial'
         country: 'Croatia'
     -
-        name: 'Franjo Arapović'
-        book: 'Kako zakucati Dream Teamu'
+        author: 'Franjo Arapović'
+        title: 'Kako zakucati Dream Teamu'
         published: 1846
         genre: 'Tutorial'
         country: 'Croatia'
     -
-        name: 'Agatha Christie'
-        book: 'And Then There Were None'
+        author: 'Agatha Christie'
+        title: 'And Then There Were None'
         published: 1939
         genre: 'Philosophical novel'
         country: 'Taiwan'
     -
-        name: 'J. D. Salinger'
-        book: 'The Catcher in the Rye'
+        author: 'J. D. Salinger'
+        title: 'The Catcher in the Rye'
         published: 1951
         genre: 'Realistic fiction'
         country: 'USA'
     -
-        name: 'Josephine Tey'
-        book: 'The Daughter of Time'
+        author: 'Josephine Tey'
+        title: 'The Daughter of Time'
         published: 1951
         genre: 'Crime novel'
         country: 'Scotland'
     -
-        name: 'Raymond Chandler'
-        book: 'The Big Sleep'
+        author: 'Raymond Chandler'
+        title: 'The Big Sleep'
         published: 1939
         genre: 'Crime novel'
         country: 'USA'
     -
-        name: 'Stieg Larsson'
-        book: 'Millennium'
+        author: 'Stieg Larsson'
+        title: 'Millennium'
         published: 2005
         genre: 'Crime'
         country: 'Sweden'
     -
-        name: 'Nikola Kustić'
-        book: 'Cakavski govor grada Paga'
+        author: 'Nikola Kustić'
+        title: 'Cakavski govor grada Paga'
         published: 2002
         genre: 'Dictionary'
         country: 'Croatia'
     -
-        name: 'James Joyce'
-        book: 'Ulysses'
+        author: 'James Joyce'
+        title: 'Ulysses'
         published: 1922
         genre: 'Modernist novel'
         country: 'Ireland'
     -
-        name: 'Ernest Raymond'
-        book: 'Tell England'
+        author: 'Ernest Raymond'
+        title: 'Tell England'
         published: 1922
         genre: 'Novel'
         country: 'United Kingdom'
     -
-        name: 'Agatha Christie'
-        book: 'The Secret Adversary'
+        author: 'Agatha Christie'
+        title: 'The Secret Adversary'
         published: 1922
         genre: 'Crime novel'
         country: 'United Kingdom'
     -
-        name: 'Rafael Sabatini'
-        book: 'Captain Blood'
+        author: 'Rafael Sabatini'
+        title: 'Captain Blood'
         published: 1922
         genre: 'Adventure novel'
         country: 'England'
     -
-        name: 'Edgar Wallace'
-        book: 'The Valley of Ghosts'
+        author: 'Edgar Wallace'
+        title: 'The Valley of Ghosts'
         published: 1922
         genre: 'Crime novel'
         country: 'United Kingdom'
     -
-        name: 'Thomas Bernhard'
-        book: 'Frost'
+        author: 'Thomas Bernhard'
+        title: 'Frost'
         published: 1963
         genre: 'Novel'
         country: 'Austria'
     -
-        name: 'Bernard Malamud'
-        book: 'The Fixer'
+        author: 'Bernard Malamud'
+        title: 'The Fixer'
         published: 1966
         genre: 'Novel'
         country: 'United States'
     -
-        name: 'Marlen Haushofer'
-        book: 'The wall'
+        author: 'Marlen Haushofer'
+        title: 'The wall'
         published: 1963
         genre: 'Dystopian fiction'
         country: 'Austria'
     -
-        name: 'Elia Kazan'
-        book: 'The Arrangement'
+        author: 'Elia Kazan'
+        title: 'The Arrangement'
         published: 1967
         genre: 'Autobiographical'
         country: 'United States'
     -
-        name: 'William Golding'
-        book: 'The Pyramid'
+        author: 'William Golding'
+        title: 'The Pyramid'
         published: 1967
         genre: 'Novel'
         country: 'United Kingdom'

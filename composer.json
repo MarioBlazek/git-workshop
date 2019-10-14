@@ -5,7 +5,7 @@
         "beberlei/assert": "^3.2"
     },
     "scripts": {
-        "lint": "@php test/linter.php writers.yml",
+        "lint": "@php test/linter.php books.yml",
         "test": "@php test/test.php"
     }
 }
