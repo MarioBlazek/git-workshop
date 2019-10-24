@@ -324,8 +324,20 @@ books:
         genre: 'Novel'
         country: 'United Kingdom'
     -
-        author: 'J. K. Rowling'
-        title: 'Harry Potter and the Deathly Hallows'
+        author: 'Brandon Sanderson'
+        title: 'The Well of Ascension'
         published: 2007
         genre: 'Novel'
-        country: 'United Kingdom'
+        country: 'United States'
+    -
+        author: 'Brandon Sanderson'
+        title: 'The Final Empire'
+        published: 2006
+        genre: 'Novel'
+        country: 'United States'
+    -
+        author: 'Brandon Sanderson'
+        title: 'The Hero of Ages'
+        published: 2008
+        genre: 'Novel'
+        country: 'United States'
