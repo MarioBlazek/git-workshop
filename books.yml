@@ -329,3 +329,21 @@ books:
         published: 2007
         genre: 'Novel'
         country: 'United Kingdom'
+    -
+        author: 'Brandon Sanderson'
+        title: 'The Well of Ascension'
+        published: 2007
+        genre: 'Novel'
+        country: 'United States'
+    -
+        author: 'Brandon Sanderson'
+        title: 'The Final Empire'
+        published: 2006
+        genre: 'Novel'
+        country: 'United States'
+    -
+        author: 'Brandon Sanderson'
+        title: 'The Hero of Ages'
+        published: 2008
+        genre: 'Novel'
+        country: 'United States'
