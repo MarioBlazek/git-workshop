@@ -323,3 +323,9 @@ books:
         published: 2005
         genre: 'Novel'
         country: 'United Kingdom'
+    -
+        author: 'J. K. Rowling'
+        title: 'Harry Potter and the Deathly Hallows'
+        published: 2007
+        genre: 'Novel'
+        country: 'United Kingdom'
