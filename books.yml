@@ -325,19 +325,19 @@ books:
         country: 'United Kingdom'
     -
         author: 'Brandon Sanderson'
-        title: 'The Well of Ascension'
-        published: 2007
+        title: 'The Alloy of Law'
+        published: 2011
         genre: 'Novel'
         country: 'United States'
     -
         author: 'Brandon Sanderson'
-        title: 'The Final Empire'
-        published: 2006
+        title: 'Shadows of Self'
+        published: 2015
         genre: 'Novel'
         country: 'United States'
     -
         author: 'Brandon Sanderson'
-        title: 'The Hero of Ages'
-        published: 2008
+        title: 'Bands of Mourning'
+        published: 2016
         genre: 'Novel'
         country: 'United States'
