@@ -324,11 +324,23 @@ books:
         genre: 'Novel'
         country: 'United Kingdom'
     -
-        author: 'J. K. Rowling'
-        title: 'Harry Potter and the Deathly Hallows'
-        published: 2007
+        author: 'Brandon Sanderson'
+        title: 'The Alloy of Law'
+        published: 2011
         genre: 'Novel'
-        country: 'United Kingdom'
+        country: 'United States'
+    -
+        author: 'Brandon Sanderson'
+        title: 'Shadows of Self'
+        published: 2015
+        genre: 'Novel'
+        country: 'United States'
+    -
+        author: 'Brandon Sanderson'
+        title: 'Bands of Mourning'
+        published: 2016
+        genre: 'Novel'
+        country: 'United States'
     -
         author: 'Brandon Sanderson'
         title: 'The Well of Ascension'
@@ -337,7 +349,7 @@ books:
         country: 'United States'
     -
         author: 'Brandon Sanderson'
-        title: 'The Final Empire'
+        title: 'Mistborn:  The Final Empire'
         published: 2006
         genre: 'Novel'
         country: 'United States'
