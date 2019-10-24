@@ -293,3 +293,33 @@ books:
         published: 1967
         genre: 'Novel'
         country: 'United Kingdom'
+    -
+        author: 'J. K. Rowling'
+        title: 'Harry Potter and the Chamber of Secrets'
+        published: 1998
+        genre: 'Novel'
+        country: 'United Kingdom'
+    -
+        author: 'J. K. Rowling'
+        title: 'Harry Potter and the Prisoner of Azkaban'
+        published: 1999
+        genre: 'Novel'
+        country: 'United Kingdom'
+    -
+        author: 'J. K. Rowling'
+        title: 'Harry Potter and the Goblet of Fire'
+        published: 2000
+        genre: 'Novel'
+        country: 'United Kingdom'
+    -
+        author: 'J. K. Rowling'
+        title: 'Harry Potter and the Order of the Phoenix'
+        published: 2003
+        genre: 'Novel'
+        country: 'United Kingdom'
+    -
+        author: 'J. K. Rowling'
+        title: 'Harry Potter and the Half-Blood Prince'
+        published: 2005
+        genre: 'Novel'
+        country: 'United Kingdom'
