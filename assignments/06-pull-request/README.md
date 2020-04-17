@@ -57,3 +57,4 @@ Read more
 ---------
 
 * [Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
+* [Let's Make That Pull Request](https://netgen.io/blog/let-s-make-that-pull-request)
